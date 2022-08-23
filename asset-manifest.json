@@ -1,15 +1,15 @@
 {
   "main.css": "/demo-todo.github.io/static/css/main.3daf0a52.chunk.css",
-  "main.js": "/demo-todo.github.io/static/js/main.72a6d58d.chunk.js",
-  "main.js.map": "/demo-todo.github.io/static/js/main.72a6d58d.chunk.js.map",
+  "main.js": "/demo-todo.github.io/static/js/main.d4ac9250.chunk.js",
+  "main.js.map": "/demo-todo.github.io/static/js/main.d4ac9250.chunk.js.map",
   "static/js/1.546dafc1.chunk.js": "/demo-todo.github.io/static/js/1.546dafc1.chunk.js",
   "static/js/1.546dafc1.chunk.js.map": "/demo-todo.github.io/static/js/1.546dafc1.chunk.js.map",
-  "static/js/2.a39159f3.chunk.js": "/demo-todo.github.io/static/js/2.a39159f3.chunk.js",
-  "static/js/2.a39159f3.chunk.js.map": "/demo-todo.github.io/static/js/2.a39159f3.chunk.js.map",
+  "static/js/2.4de24967.chunk.js": "/demo-todo.github.io/static/js/2.4de24967.chunk.js",
+  "static/js/2.4de24967.chunk.js.map": "/demo-todo.github.io/static/js/2.4de24967.chunk.js.map",
   "runtime~main.js": "/demo-todo.github.io/static/js/runtime~main.1400e7db.js",
   "runtime~main.js.map": "/demo-todo.github.io/static/js/runtime~main.1400e7db.js.map",
   "static/css/main.3daf0a52.chunk.css.map": "/demo-todo.github.io/static/css/main.3daf0a52.chunk.css.map",
   "index.html": "/demo-todo.github.io/index.html",
-  "precache-manifest.234f40577be0b4824d872ceb553eb0f6.js": "/demo-todo.github.io/precache-manifest.234f40577be0b4824d872ceb553eb0f6.js",
+  "precache-manifest.05818490c27021c50cbc1b8ffe463662.js": "/demo-todo.github.io/precache-manifest.05818490c27021c50cbc1b8ffe463662.js",
   "service-worker.js": "/demo-todo.github.io/service-worker.js"
 }
